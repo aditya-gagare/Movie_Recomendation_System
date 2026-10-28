@@ -52,8 +52,12 @@ Movie-Recommender-System/
 ├── similarity.pkl
 ├── tmdb_5000_movies.csv
 ├── tmdb_5000_credits.csv
+├── Homepage.png
+├── Movie_select.png
+├── Recommended_Movies.png
 ├── requirements.txt
 ├── README.md
+├── .env
 └── .gitignore
 ```
 
