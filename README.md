@@ -76,6 +76,8 @@ Movie-Recommender-System/
 | `.gitignore` | Excludes private credentials and unnecessary files |
 
 ## ⚙️ How It Works
+- **Note :** For detailed Data preproccessing and Model Building see Notebook.
+
 
 1. **Data Collection:** Loads movie metadata and credits from the TMDB 5000 datasets.
 2. **Data Preprocessing:** Cleans the data and prepares relevant movie features.
